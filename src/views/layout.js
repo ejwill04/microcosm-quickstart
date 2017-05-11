@@ -4,9 +4,8 @@ export default function Layout ({children}) {
 
   return (
     <div>
-      <h1>You've successfully installed microcosm-starter</h1>
-      <p>Great things await!</p>
+      <h1>Solar System</h1>
       {children}
-    </div>
+    </div> 
   )
 }
